@@ -1,0 +1,5 @@
+El modelo será definido como la clase principal Hardware
+de esta se alimentan las instancias que pueden realizarse a través de gui (se deberá desarrollar) o bien a través de consola(se deberá desarrollar por argumento). Existe un archivo que contiene la mayoria de datos, este es Helpers.py que basicamente son funciones sueltas que utilizan la clase WMI de python para acceder remotmente a los datos del equipo remoto Windows.
+
+
+

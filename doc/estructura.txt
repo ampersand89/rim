@@ -1,0 +1,8 @@
+RIM/
+    __init__.py
+    main.py
+    doc/
+        estructura.txt
+    recursos/
+        __init__.py
+        helpers.py
