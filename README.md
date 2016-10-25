@@ -21,6 +21,7 @@ Output Arguments:
 
 Examples:
 --------------------
-+ rim 192.168.0.10 --all
-+ rim 192.168.0.11 --hardware --software
-+ rim 192.168.0.20
++ rim -i 192.168.0.10 --all
++ rim --ip 192.168.0.11 --hardware --software
++ rim -i 192.168.0.20
+
