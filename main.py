@@ -23,9 +23,9 @@ def usage():
         "-j --hardware  \t\t - Show Hardware Information\n" \
         "-s --software  \t\t - Show Software Information\n\n" \
         "Examples:\n" \
-        "rim 192.168.0.10 --all\n" \
-        "rim 192.168.0.11 --hardware --software \n" \
-        "rim 192.168.0.20 \n" \
+        "rim -i 192.168.0.10 --all\n" \
+        "rim --ip 192.168.0.11 --hardware --software \n" \
+        "rim -i 192.168.0.20 \n" \
 
 def errorEnMismaMaquina():
     print '''Error: You Must Specify ip or Hostname!
